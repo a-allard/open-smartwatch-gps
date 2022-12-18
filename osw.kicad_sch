@@ -6,8 +6,8 @@
 
   (title_block
     (title "Open-Smartwatch-GPS")
-    (date "2021-02-18")
-    (rev "3.1")
+    (date "2022-12-16")
+    (rev "${REVISION}")
   )
 
   (lib_symbols
@@ -5506,7 +5506,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 260.985 137.16 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f95b57c)
-    (property "Reference" "" (id 0) (at 260.985 135.255 0)
+    (property "Reference" "#FLG01" (id 0) (at 260.985 135.255 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 260.985 132.7658 0))
@@ -5576,7 +5576,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 274.32 143.51 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fb3a274)
-    (property "Reference" "" (id 0) (at 274.32 145.415 0)
+    (property "Reference" "#FLG05" (id 0) (at 274.32 145.415 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 274.32 147.9042 0))
