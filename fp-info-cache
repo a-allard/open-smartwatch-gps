@@ -1,4 +1,4 @@
-48471725457769
+51815911375835
 open-Smartwatch
 2mm_hex
 
@@ -6,6 +6,13 @@ open-Smartwatch
 0
 0
 0
+open-Smartwatch
+10-DFN(2.6X2.6)_PCF85063A
+
+
+0
+11
+11
 open-Smartwatch
 Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering
 LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf
@@ -174,6 +181,13 @@ XCVR_L96-M33
 0
 31
 31
+open-Smartwatch
+XDCR_BH1792GLC-E2
+
+
+0
+10
+10
 open-Smartwatch
 button_side_smd
 
