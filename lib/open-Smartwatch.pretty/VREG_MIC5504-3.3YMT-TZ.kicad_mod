@@ -128,7 +128,7 @@
           (xy 0.138 0.129)
         ) (width 0.001) (fill yes))
     ) (tstamp 96b2b1ed-12cb-4906-9196-9f27522b3f39))
-  (pad "EP" smd rect (at 0 0 315) (size 0.48 0.48) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 183c9679-324f-423e-96be-25e9fd605344))
+  (pad "5" smd rect (at 0 0 315) (size 0.48 0.48) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 183c9679-324f-423e-96be-25e9fd605344))
   (model "${KIPRJMOD}/3dModels/VREG_MIC5504-3.3YMT-TZ.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
