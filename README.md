@@ -18,7 +18,7 @@ NOT UP TO DATE!!!
 
 As this project has been worked on the schematic has not been updated along way yet.  Once the schematic is finalized this (and the other docs) will get updated.
 
-[![Schematic](docs/img/osw-schematic.svg)](docs/osw-schematic.pdf)
+[![Schematic](docs/img/osw.svg)](docs/osw-schematic.pdf)
 
 ## Plots
 

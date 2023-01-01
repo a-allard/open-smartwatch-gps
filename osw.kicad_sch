@@ -6381,7 +6381,7 @@
   (symbol (lib_id "open-Smartwatch:MIC5504-3p3") (at 149 226 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1fb0b406-fdc4-42ea-89a7-3c61b077c77d)
-    (property "Reference" "U?" (id 0) (at 149 214.63 0))
+    (property "Reference" "U5" (id 0) (at 149 214.63 0))
     (property "Value" "MIC5504-3p3" (id 1) (at 149 217.17 0))
     (property "Footprint" "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ" (id 2) (at 150.27 239.97 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -7119,7 +7119,7 @@
   (symbol (lib_id "open-Smartwatch:MIC5504-3p3") (at 149 251 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6c5d8100-3868-4e3a-9883-2e3cea3cc795)
-    (property "Reference" "U?" (id 0) (at 149 240.03 0))
+    (property "Reference" "U7" (id 0) (at 149 240.03 0))
     (property "Value" "MIC5504-3p3" (id 1) (at 149 242.57 0))
     (property "Footprint" "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ" (id 2) (at 150.27 264.97 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -9014,8 +9014,14 @@
     (path "/00000000-0000-0000-0000-00005f5769ac"
       (reference "U4") (unit 1) (value "MCP73831T-2ACI_OT") (footprint "open-Smartwatch:SOT-23-5")
     )
+    (path "/1fb0b406-fdc4-42ea-89a7-3c61b077c77d"
+      (reference "U5") (unit 1) (value "MIC5504-3p3") (footprint "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ")
+    )
     (path "/28c663a6-5e13-4b51-b6ba-0db50d813c1a"
       (reference "U6") (unit 1) (value "FT234XD-R") (footprint "open-Smartwatch:SON45P300X300X80-13N")
+    )
+    (path "/6c5d8100-3868-4e3a-9883-2e3cea3cc795"
+      (reference "U7") (unit 1) (value "MIC5504-3p3") (footprint "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ")
     )
     (path "/a8f95da4-83d8-4dc7-a5bb-ed9669c2d19a"
       (reference "U8") (unit 1) (value "23K256-I/SN") (footprint "open-Smartwatch:SOIC127P600X175-8N_microchipRAM")
@@ -9034,12 +9040,6 @@
     )
     (path "/88834a48-945b-45d5-a4d5-c196f3115062"
       (reference "U13") (unit 1) (value "BH1792GLC-E2") (footprint "open-Smartwatch:XDCR_BH1792GLC-E2")
-    )
-    (path "/1fb0b406-fdc4-42ea-89a7-3c61b077c77d"
-      (reference "U?") (unit 1) (value "MIC5504-3p3") (footprint "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ")
-    )
-    (path "/6c5d8100-3868-4e3a-9883-2e3cea3cc795"
-      (reference "U?") (unit 1) (value "MIC5504-3p3") (footprint "open-Smartwatch:VREG_MIC5504-3.3YMT-TZ")
     )
   )
 )
