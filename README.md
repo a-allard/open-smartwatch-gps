@@ -8,7 +8,7 @@ The [original project ](https://github.com/Open-Smartwatch/open-smartwatch-gps) 
 
 ## Tools
 
-To view/modify the files from this repository install [KiCAD](https://kicad.org).  You'll need version 6.0 or higher.  NOTE: Once Version 7 arrives in January of 2023 this repository will likely bump to version 7 provided it is reasonably stable.
+To view/modify the files from this repository install [KiCAD](https://kicad.org).  You'll need version 7.0 or higher.
 
 All footprints
 
