@@ -5000,7 +5000,7 @@
     (style (thickness 0.2) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
-  (zone (net 1) (net_name "GND") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 00000000-0000-0000-0000-0000601b1256) (hatch edge 0.508)
+  (zone (net 1) (net_name "GND") (layer "B.Cu") (tstamp 00000000-0000-0000-0000-0000601b1256) (hatch edge 0.508)
     (connect_pads (clearance 0.127))
     (min_thickness 0.254) (filled_areas_thickness no)
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
