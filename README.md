@@ -13,12 +13,9 @@ To view/modify the files from this repository install [KiCAD](https://kicad.org)
 All footprints
 
 ## Schematic
+Updated as of 10/20/2023.  May change but if it does it should be minor changes.
 
-NOT UP TO DATE!!!
-
-As this project has been worked on the schematic has not been updated along way yet.  Once the schematic is finalized this (and the other docs) will get updated.
-
-[![Schematic](docs/img/osw.svg)](docs/osw-schematic.pdf)
+[![Schematic](docs/img/osw.svg)](docs/osw.pdf)
 
 ## Plots
 
