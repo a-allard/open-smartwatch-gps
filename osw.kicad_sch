@@ -6,8 +6,9 @@
 
   (title_block
     (title "Open-Smartwatch-GPS")
-    (date "2022-12-16")
+    (date "2023-10-20")
     (rev "${REVISION}")
+    (comment 1 "Updated by Andrew Allard")
   )
 
   (lib_symbols
