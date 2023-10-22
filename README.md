@@ -19,8 +19,15 @@ Updated as of 10/20/2023.  May change but if it does it should be minor changes.
 
 ## Plots
 
-*not done until after the schematic is done*
+*coming soon*
 
 ### BOM
 
-*no bom until schematic is done.....*
+NOTE: **This is a preliminary BOM**  After testing this could change some.
+
+[HTML BOM](https://github.com/a-allard/open-smartwatch-gps/blob/master/bom/OSW_GPS_Rev-4.0.html)  (best to download for a pretty view)
+
+For actual parts you'll need
+* [Digi-Key cart](https://www.digikey.com/short/5wz73v93) with most everything needed for a build of 1.
+* [Display](https://www.buydisplay.com/1-28-inch-tft-lcd-display-240x240-round-circle-screen-for-smart-watch)
+* A LiPo battery and battery connector (Have not yet been selected but you should be able to power this from USB for initial debugging.)
