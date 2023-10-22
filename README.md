@@ -6,6 +6,9 @@ Repo for kicad schematic, board and gerber files. This project is in development
 
 The [original project ](https://github.com/Open-Smartwatch/open-smartwatch-gps) seems to have lost some momentum on development.  There is an [issue here](https://github.com/Open-Smartwatch/open-smartwatch-gps/issues/10) to discuss merging these changes into the original project.  One of the goals of this fork and update is to minimize any serious changes to [the os](https://github.com/Open-Smartwatch/open-smartwatch-os).  If all goes well, the OS should be able to be dropped on here with little to no modifications.  (that is the goal time will tell for sure.)
 
+Right now this is a 2 layer design.  If this works it will greatly reduce the overall cost.  Have to see how this performs.
+
+
 ## Tools
 
 To view/modify the files from this repository install [KiCAD](https://kicad.org).  You'll need version 7.0 or higher.
@@ -31,3 +34,5 @@ For actual parts you'll need
 * [Digi-Key cart](https://www.digikey.com/short/5wz73v93) with most everything needed for a build of 1.
 * [Display](https://www.buydisplay.com/1-28-inch-tft-lcd-display-240x240-round-circle-screen-for-smart-watch)
 * A LiPo battery and battery connector (Have not yet been selected but you should be able to power this from USB for initial debugging.)
+
+Total cost from DK ~$55.  The display is ~$15 including shipping.  With a battery this should bring the total BOM cost per watch to about ~$110 including boards from pcbway.com.  Note this is for a single watch but you'll have to order 5 boards from pcbway.com
