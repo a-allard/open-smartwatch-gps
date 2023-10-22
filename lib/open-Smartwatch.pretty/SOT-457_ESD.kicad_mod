@@ -1,6 +1,6 @@
 (footprint "SOT-457_ESD" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.032013 -2.206927) (layer "F.SilkS")
       (effects (font (size 0.640152 0.640152) (thickness 0.15)))
     (tstamp 23a68400-fc01-40a7-9a81-8b5d9e146b69)

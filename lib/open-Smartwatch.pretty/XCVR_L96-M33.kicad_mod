@@ -1,6 +1,6 @@
 (footprint "XCVR_L96-M33" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -7.7 -6.6 90) (layer "F.SilkS")
       (effects (font (size 1.00122 1.00122) (thickness 0.15)))
     (tstamp 751975e3-4b5f-4e94-a50c-365fb7c562df)
@@ -352,12 +352,12 @@
   (zone (net 0) (net_name "") (layers "*.Cu") (tstamp 15e8a2e9-6e13-498e-a1c5-88f57e3e052f) (name "antennaKeepout") (hatch edge 0.5)
     (connect_pads (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
-        (xy -4.8 7)
-        (xy 4.8 7)
+        (xy -4.8 7.2)
+        (xy 4.8 7.2)
         (xy 4.8 2.15)
         (xy 0.7 2.1)
         (xy 0.7 1.2)

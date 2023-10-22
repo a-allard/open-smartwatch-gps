@@ -1,6 +1,6 @@
 (footprint "SON45P300X300X80-13N" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.675 -2.385) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b246576c-9e24-4241-a110-64b7675eb563)

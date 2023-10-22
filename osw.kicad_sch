@@ -3518,6 +3518,9 @@
   (junction (at 378.46 210.82) (diameter 0) (color 0 0 0 0)
     (uuid 5168addb-9927-40cb-8121-056a3da9cde9)
   )
+  (junction (at 316 223) (diameter 0) (color 0 0 0 0)
+    (uuid 517459b5-be10-4131-83fe-f85ed05a6f69)
+  )
   (junction (at 215.9 86.36) (diameter 0) (color 0 0 0 0)
     (uuid 5a334f61-1d83-48ca-aaa2-2ef47689da28)
   )
@@ -8826,6 +8829,31 @@
       (project "osw"
         (path "/670ee7c3-0d83-4e97-8079-4c64eeea67de"
           (reference "Q1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 316 223 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid bc3c6696-5237-4a2f-bebd-350aa9476933)
+    (property "Reference" "#PWR01" (at 316 229.35 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 316.127 227.3942 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 316 223 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 316 223 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid af32c6cb-85a8-4d8d-a788-b433b0f9fdec))
+    (instances
+      (project "osw"
+        (path "/670ee7c3-0d83-4e97-8079-4c64eeea67de"
+          (reference "#PWR01") (unit 1)
         )
       )
     )

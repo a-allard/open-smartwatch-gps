@@ -1,6 +1,6 @@
 (footprint "XCVR_ESP32-MINI-1" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -9.6 -4.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a6649bac-4625-43a6-b68e-5f5054992fb7)
@@ -102,6 +102,20 @@
   (pad "55" smd rect (at 1.5 -1.5) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 17d9e4ca-d115-480d-a256-dc811d91a616))
   (pad "55" smd rect (at 1.5 0) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 13591ed8-f617-41b4-8f3e-07bd15581985))
   (pad "55" smd rect (at 1.5 1.5) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7047cd75-4467-40c6-b395-de2adff83dec))
+  (zone (net 0) (net_name "") (layers "*.Cu") (tstamp 0aa9125b-015a-487e-84a2-e9a7ff16ce28) (hatch edge 0.5)
+    (connect_pads (clearance 0))
+    (min_thickness 0.25) (filled_areas_thickness no)
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints not_allowed))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
+    (polygon
+      (pts
+        (xy -6.4 -12)
+        (xy 6.4 -12)
+        (xy 6.4 -7.3)
+        (xy -6.4 -7.3)
+      )
+    )
+  )
   (model "${KIPRJMOD}/3dModels/ESP32-MINI-1-N4--3DModel-STEP-56544.STEP"
     (opacity 0.6500)    (offset (xyz 0 2.7 0))
     (scale (xyz 1 1 1))

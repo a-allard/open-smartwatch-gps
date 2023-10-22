@@ -1,6 +1,6 @@
 (footprint "SOT95P247X115-3N" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.032 -2.4064) (layer "F.SilkS")
       (effects (font (size 0.64 0.64) (thickness 0.15)))
     (tstamp 940c81c1-1588-41ff-99fb-c8851413be3a)
