@@ -1,4 +1,4 @@
-22384290638241690
+22373139937898687
 AllardAmps
 ADA4851_SOP65P490X110-8N
 
@@ -111,6 +111,34 @@ breadboard DIP
 0
 16
 16
+AllardFacePlateFPs
+DB9_facePlateHole
+
+
+0
+2
+2
+AllardFacePlateFPs
+DB15_facePlateHole
+
+
+0
+2
+2
+AllardFacePlateFPs
+DB25_facePlateHole
+
+
+0
+2
+2
+AllardFacePlateFPs
+USB_C_facePlateHole
+
+
+0
+0
+0
 AllardFootPrints
 2X5-PTH-1.27MM
 <h3>ARM Cortex Debug Connector (10-pin)</h3>{return}<p>For debuggers and/or programemrs that support the Cortex Debug Connector (10-pin) interface.</p>{return}<p>tDoc (51) layer border represents maximum dimensions of plastic housing.</p>{return}<p><a href="http://www.digikey.com/product-detail/en/20021111-00010T4LF/609-3712-ND/2209072">Example Digikey Part</a></p>
@@ -398,6 +426,27 @@ microTactSwitch
 0
 4
 4
+AllardPassive
+INDC200X160X100L50L
+Inductor, Chip; 2.00 mm L X 1.60 mm W X 1.00 mm H body
+
+0
+2
+2
+AllardPassive
+INDC200X160X100L50N
+Inductor, Chip; 2.00 mm L X 1.60 mm W X 1.00 mm H body
+
+0
+2
+2
+AllardPassive
+Murata_LQH3NPN100MJRL
+1212 (3030) T=1.1±0.1mm
+Inductor
+0
+2
+2
 AllardSOD
 SOD250X125X100L9X32L
 Diode, Small Outline Diode (SOD); 1.70 mm L X 1.25 mm W X 1.00 mm H body
@@ -629,6 +678,62 @@ tactileSW_tl1105
 0
 4
 4
+AllardTagConnect
+TC2030-NL_BIG
+Tag-Connect TC2030-NL footprint
+Tag-Connect TC2030-NL
+0
+6
+6
+AllardTagConnect
+TC2030-NL_SMALL
+Tag-Connect TC2030-NL footprint
+Tag-Connect TC2030-NL
+0
+6
+6
+AllardTagConnect
+TC2030_BIG
+Tag-Connect TC2030 footprint
+Tag-Connect TC2030
+0
+6
+6
+AllardTagConnect
+TC2030_SMALL
+Tag-Connect TC2030 footprint
+Tag-Connect TC2030
+0
+6
+6
+AllardTagConnect
+TC2050-NL_BIG
+Tag-Connect TC2050-NL footprint by carloscuev@gmail.com
+Tag-Connect TC2050-NL
+0
+10
+10
+AllardTagConnect
+TC2050-NL_SMALL
+Tag-Connect TC2050-NL footprint by carloscuev@gmail.com
+Tag-Connect TC2050-NL
+0
+10
+10
+AllardTagConnect
+TC2050_BIG
+Tag-Connect TC2050 footprint by carloscuev@gmail.com
+Tag-Connect TC2050
+0
+10
+10
+AllardTagConnect
+TC2050_SMALL
+Tag-Connect TC2050 footprint by carloscuev@gmail.com
+Tag-Connect TC2050
+0
+10
+10
 Allard_dfn_qfn
 ANALOG_CC-16-3
 
@@ -43652,6 +43757,13 @@ Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.p
 10
 9
 Connector_RJ
+RJ45_Hanrun_HR911105A
+http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
+RJ45 Magjack
+0
+14
+13
+Connector_RJ
 RJ45_Hanrun_HR911105A_Horizontal
 1 Port RJ45 8P8C receptacle, shielded, with magnetics, through hole, 2 LEDs, tab down, http://www.hanrun.com/public/upload/down/2020/09-11/cc11be56d66bb63d5f1eeb85492439c0.pdf
 RJ45 Magjack ethernet
@@ -65715,216 +65827,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_arduino-library
-Arduino_101_Shield
-https://docs.arduino.cc/retired/boards/arduino-101-619
-
-0
-38
-38
-PCM_arduino-library
-Arduino_Due_Shield
-https://docs.arduino.cc/hardware/due
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Giga_R1_WiFi_Shield
-https://docs.arduino.cc/hardware/giga-r1-wifi
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Leonardo_Shield
-https://docs.arduino.cc/hardware/leonardo
-
-0
-38
-37
-PCM_arduino-library
-Arduino_M0_Pro_Shield
-https://docs.arduino.cc/retired/boards/arduino-m0-pro
-
-0
-38
-37
-PCM_arduino-library
-Arduino_MKR_1000_WiFi_Socket
-https://docs.arduino.cc/hardware/mkr-1000-wifi
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_FOX_1200_Socket
-https://docs.arduino.cc/hardware/mkr-fox-1200
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_Vidor_4000_Socket
-https://docs.arduino.cc/hardware/mkr-vidor-4000
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_WiFi_1010_Socket
-https://docs.arduino.cc/hardware/mkr-wifi-1010
-
-0
-28
-28
-PCM_arduino-library
-Arduino_MKR_Zero_Socket
-https://docs.arduino.cc/hardware/mkr-zero
-
-0
-28
-28
-PCM_arduino-library
-Arduino_Mega2560_Shield
-https://docs.arduino.cc/hardware/mega-2560
-
-0
-92
-91
-PCM_arduino-library
-Arduino_Micro_Socket
-https://docs.arduino.cc/hardware/micro
-
-0
-34
-32
-PCM_arduino-library
-Arduino_Mini_Socket
-https://docs.arduino.cc/retired/boards/arduino-mini-05
-
-0
-35
-35
-PCM_arduino-library
-Arduino_Mini_Socket_NoSPH
-https://docs.arduino.cc/retired/boards/arduino-mini-05
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_33_IoT_Socket
-https://docs.arduino.cc/hardware/nano-33-iot
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_33_IoT_Tile
-https://docs.arduino.cc/hardware/nano-33-iot
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Every_Socket
-https://docs.arduino.cc/hardware/nano-every
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Every_Tile
-https://docs.arduino.cc/hardware/nano-every
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nano_Socket
-https://docs.arduino.cc/hardware/nano
-
-0
-30
-30
-PCM_arduino-library
-Arduino_Nicla_Vision_Socket
-https://docs.arduino.cc/hardware/nicla-vision
-
-0
-19
-18
-PCM_arduino-library
-Arduino_Nicla_Vision_Tile
-https://docs.arduino.cc/hardware/nicla-vision
-
-0
-19
-18
-PCM_arduino-library
-Arduino_Nicla_Voice_Socket
-https://docs.arduino.cc/hardware/nicla-voice
-
-0
-19
-17
-PCM_arduino-library
-Arduino_Nicla_Voice_Tile
-https://docs.arduino.cc/hardware/nicla-voice
-
-0
-19
-17
-PCM_arduino-library
-Arduino_Pro_Mini_Socket
-https://docs.arduino.cc/retired/boards/arduino-pro-mini
-
-0
-34
-34
-PCM_arduino-library
-Arduino_Pro_Mini_Socket_NoSPH
-https://docs.arduino.cc/retired/boards/arduino-pro-mini
-
-0
-28
-28
-PCM_arduino-library
-Arduino_Uno_R2_Shield
-https://startingelectronics.org/articles/arduino/uno-r3-r2-differences/
-
-0
-34
-34
-PCM_arduino-library
-Arduino_Uno_R3_Shield
-https://docs.arduino.cc/hardware/uno-rev3
-
-0
-38
-37
-PCM_arduino-library
-Arduino_Zero_Shield
-https://docs.arduino.cc/hardware/zero
-
-0
-38
-38
-PCM_arduino-library
-Pro_Mini_Clone_Socket
-https://www.addicore.com/Pro-Mini-p/ad249.htm
-
-0
-35
-35
-PCM_arduino-library
-Pro_Mini_Clone_Socket_NoSPH
-https://www.addicore.com/Pro-Mini-p/ad249.htm
-
-0
-29
-29
 PCM_kikit
 Board
 Mark board for extraction
@@ -68754,6 +68656,20 @@ mlpq 32 7x7mm
 113
 49
 Package_DFN_QFN
+Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm
+MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)
+mlpq 32 7x7mm
+0
+117
+49
+Package_DFN_QFN
+Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.55x5.55mm
+MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)
+mlpq 32 7x7mm
+0
+117
+49
+Package_DFN_QFN
 Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm
 PQFN 22 leads, 5x6mm, 0.127mm stencil (https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819, https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)
 pqfn 22 5x6mm
@@ -70645,6 +70561,13 @@ UFQFPN 0.5
 20
 Package_DFN_QFN
 ST_UQFN-6L_1.5x1.7mm_P0.5mm
+ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf
+UQFN DFN 0.5 ST
+0
+6
+6
+Package_DFN_QFN
+ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
 ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf
 UQFN DFN 0.5 ST
 0
@@ -83111,6 +83034,13 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
+Relay_DPDT_Omron_G2RL
+Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPDT
+0
+8
+8
+Relay_THT
 Relay_DPDT_Omron_G2RL-2
 Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
@@ -92133,6 +92063,27 @@ varistor
 0
 2
 2
+logos
+MT_logo
+
+
+0
+0
+0
+logos
+MT_logoSmall
+
+
+0
+0
+0
+logos
+MT_logoTiny
+
+
+0
+0
+0
 open-Smartwatch
 2mm_hex
 
