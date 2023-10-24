@@ -904,6 +904,8 @@
     (at 177.86 122.6 90)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
+    (property "DigiKey_PN" "455-B2B-EH-A-ND")
+    (property "MPN" "B2B-EH-A")
     (property "Sheetfile" "osw.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
