@@ -8815,6 +8815,9 @@
     (property "MPN" "B2B-EH-A" (at 193.675 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Manufacturer" "JST" (at 193.675 151.765 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 824d37da-4c22-4b72-9965-6d75c48beb2f))
     (pin "2" (uuid 9acbf73c-fac0-4022-922c-1083f3f870e4))
     (instances
