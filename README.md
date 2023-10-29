@@ -25,7 +25,10 @@ Updated as of 10/20/2023.  May change but if it does it should be minor changes.
 
 ## Plots
 
-*coming soon*
+![Top](docs/img/osw-top.svg)
+
+![Bottom](docs/img/osw-bottom.svg)
+
 
 
 ## Build Info
