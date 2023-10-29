@@ -26,7 +26,6 @@ Updated as of 10/20/2023.  May change but if it does it should be minor changes.
 ## Plots
 
 ![Top](docs/img/osw-top.svg)
-
 ![Bottom](docs/img/osw-bottom.svg)
 
 
