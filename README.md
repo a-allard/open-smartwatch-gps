@@ -32,7 +32,9 @@ Updated as of 10/20/2023.  May change but if it does it should be minor changes.
 
 ## Build Info
 
-To get some raw PCBs the best way would be either [pcbway](https://pcbway.com) or [osh-park](https://oshpark.com/).  Zip up the [fab folder](./fabFiles/Rev_4.0) and upload to either site.  Next you'll have to either build this yourself or get these fabricated.  If you want to get the boards fabricated pcbway does a decent job.  You'll have to export the position files and put the BOM in pcbway format.
+To get some raw PCBs the best way would be [pcbway](https://pcbway.com).  Once this project has been built and tested the design will be published on pcbway for anyone to order with a couple clicks.
+
+Next you'll have to either build this yourself or get these fabricated.  If you want to get the boards fabricated pcbway does a decent job.  You'll have to export the position files and put the BOM in pcbway format.
 
 If you choose to solder these youself the smallest components are 0402 and QFNs.  Not the most friendly but can be done with a decent soldering iron.
 
