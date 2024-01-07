@@ -16,10 +16,12 @@ Right now this is a 2 layer design.  If this works it will greatly reduce the ov
 
 To view/modify the files from this repository install [KiCAD](https://kicad.org).  You'll need version 7.0 or higher.  This will be bumped in Janurary of 2024 to KiCad 8.0.
 
-All footprints
+All footprints, schematic symbols and 3d models should be self contained winthin the project.  This means you should be able to open the kicad project anywhere with or without the default kicad libraries and play with things without worry about missing pieces.
 
 ## Schematic
 Updated as of 10/20/2023.  May change but if it does it should be minor changes.
+
+Update on 1/7/2024.... Happy New Year to all!  Been quite for awhile as getting boards built and tested took quite a while.  Found a few issues.  Working on fixing them before another spin.  Probably be respinning sometime around May...?
 
 [![Schematic](docs/img/osw.svg)](docs/osw.pdf)
 
