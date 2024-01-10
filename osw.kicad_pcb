@@ -8276,7 +8276,7 @@
 		(uuid "6caab645-c527-49d6-9961-0a632d0cbaaa")
 		(at 170.95 112.4375 -90)
 		(property "Reference" "U3"
-			(at -6.7375 -6.05 180)
+			(at -7.2375 -7.05 180)
 			(layer "F.SilkS")
 			(uuid "c77f8e8f-f031-4ddf-9583-725fdd789a86")
 			(effects
