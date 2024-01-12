@@ -9556,9 +9556,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.16 -1.27 0)
+				(at 10.16 -1.27 180)
 				(length 2.54)
-				(name "I/O2A"
+				(name "I/O2B"
 					(effects
 						(font
 							(size 1 1)
@@ -9592,9 +9592,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 -1.27 180)
+				(at -10.16 -1.27 0)
 				(length 2.54)
-				(name "I/O2B"
+				(name "I/O2A"
 					(effects
 						(font
 							(size 1 1)
