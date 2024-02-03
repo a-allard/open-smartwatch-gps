@@ -55,3 +55,6 @@ Total cost from DK ~$55.  The display is ~$15 including shipping.  With a batter
 
 Don't forget to get some decent fine solder while or solder paste as you will need it!
 
+
+If you like this project, please consider supporting my open source projects through: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hwee)
+
